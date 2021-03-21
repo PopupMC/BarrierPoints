@@ -1,0 +1,11 @@
+name: BarrierPoints
+version: 1.0
+main: com.popupmc.barrierpoints.BarrierPoints
+description: BarrierPoints
+author: junebug12851
+api-version: 1.16
+
+commands:
+  bp:
+    description: Give Barrier Points
+    usage: /bp <player>
